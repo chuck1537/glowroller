@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chuck1537.github.io/glowroller/sitemap.xml
